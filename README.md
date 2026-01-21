@@ -222,24 +222,6 @@ scinference(Y1, Y0, T1, T0,
 
 ---
 
-# Development
-
-```bash
-# Clone the repository
-git clone https://github.com/anzonyquispe/scinference.git
-cd scinference
-
-# Install with development dependencies
-pip install -e ".[dev]"
-
-# Run tests
-pytest
-
-# Run tests with coverage
-pytest --cov=scinference
-```
-
----
 
 # References
 
